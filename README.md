@@ -11,6 +11,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackyZhang031008&show_icons=true&theme=radical&count_private=true)
 
 ## 🚀 Projects
+![Total Repositories](https://img.shields.io/github/repo-count/JackyZhang031008?label=Total%20Projects&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyZhang031008&layout=compact)
 
 ## 🛠️ Skills
